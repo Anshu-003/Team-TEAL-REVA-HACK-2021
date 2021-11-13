@@ -11,7 +11,7 @@ Sujnan MP
 
 #BLINKY
 12th November, 2021 
-#Overview (What problem are you trying to solve) 
+Overview (What problem are you trying to solve) 
 Here we are using vision-based eye-blink monitoring systems to solve many  possible problems like fatigue monitoring, human–computer interfacing and lie detection and many more.
 #Goals (How are you solving the problem stated) 
 Here in the project, we will use the python language along with the OpenCV library for the algorithm execution and image processing respectively to solve the problems faced during the process 
